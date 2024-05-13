@@ -1,0 +1,268 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+    /* background-color: #000000; */
+
+}
+
+.wrapper {
+    width: 1280px;
+    margin: 0 auto;
+}
+
+.herobanner .hero-content {
+    background-image: url(img1.png);
+    background-size: cover;
+    height: 110vh;
+    padding-top: 100px;
+    padding-bottom: 200px;
+}
+
+.herobanner .hero-content .hero-h1 {
+    text-align: center;
+    font-size: 80px;
+    width: 63%;
+    margin: 0 auto;
+    color: #EED490;
+    font-weight: 600;
+}
+
+.herobanner .hero-content .hero-h2 {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-weight: 100;
+
+}
+
+.herobanner .hero-content .hero-p {
+    padding-top: 20px;
+    color: rgb(36, 36, 36);
+    text-align: center;
+    width: 45%;
+    margin: 0 auto;
+}
+
+/* iphone xr contianer */
+.container-iphonexr {
+    background-image: url(image4.png);
+    height: 100vh;
+    padding-left: 50px;
+
+}
+
+.container-iphonex .container-iphonexr .what-the-differ {
+    width: 42%;
+    float: right;
+    padding-top: 420px;
+
+}
+
+.container-iphonexr .what-the-differ .what-p {
+    color: #EED490;
+    font-size: 43px;
+}
+
+.container-iphonexr .what-the-differ .what-xs {
+    margin-top: 10px;
+}
+
+.inside-container {
+    background-color: #000000;
+    padding-left: 120px;
+    align-content: center;
+}
+
+.inside-container-content .inside-container .inside {
+    display: inline-block;
+    width: 42%;
+
+}
+
+.inside-container .inside .para-xs,
+.camera-heading,
+.para-xs-max {
+    margin-top: 20px;
+}
+
+.inside-container-content .inside-container .the-video {
+    display: inline-block;
+    width: 53%;
+    padding: 0px 0px 0px 100px;
+
+}
+
+.inside-container .the-video .video-heading {
+    margin-bottom: 60px;
+}
+
+.inside-container .the-video .the-para-video {
+    margin-top: -30px;
+}
+
+.inside-container .the-video .video-fourK {
+    margin-top: 20px;
+}
+
+.container-iphone-xr .container-iphone {
+    padding-top: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #000000;
+    text-align: center;
+}
+
+.Exceptional-materials .Exceptional-content {
+    background-image: url(xsmax.png);
+    height: 100vh;
+    background-size: cover;
+}
+
+.Exceptional-materials .Exceptional-content .expectional-area {
+    max-width: 53%;
+    padding-left: 100px;
+    padding-top: 150px;
+
+}
+
+.Exceptional-content .expectional-area .exceptionl-heading {
+    color: #EED490;
+    font-size: 50px;
+    font-weight: 100;
+}
+
+.Exceptional-content .expectional-area p {
+    margin-top: 20px;
+    font-size: 16px;
+}
+
+.Exceptional-content .expectional-area .sever-layer-content {
+    display: flex;
+    padding-top: 50px;
+
+}
+
+.expectional-area .sever-layer-content h2 {
+    color: #EED490;
+    width: 80%;
+
+}
+
+.expectional-area .sever-layer-content p {
+    width: 82%;
+}
+
+.advance-face .advanced-face-id {
+    height: 100%;
+    width: 100%;
+    background: #000;
+    padding-top: 100px;
+}
+
+.advance-face .advanced-face-id .advanced-face-id-content {
+    width: 25%;
+    display: inline-block;
+    float: inline-start;
+    padding-left: 100px;
+    padding-top: 30px;
+}
+
+.advanced-face-id .advanced-face-id-content h2 {
+    font-size: 30px;
+}
+
+.advanced-face-id .advanced-face-id-content h4 {
+    margin-top: 30px;
+    text-transform: uppercase;
+
+}
+
+.advanced-face-id .advanced-face-id-content p {
+    margin-top: 20px;
+}
+
+
+
+.advance-face .advanced-face-id .white-iphone {
+    width: 74%;
+    display: inline-block;
+    /* float: inline-end; */
+    /* margin: 0 auto; */
+}
+
+.advanced-face-id .white-iphone img {
+    height: 100%;
+    width: 100%;
+}
+
+.other-phone .no-other-phone {
+    background-image: url(dance\ iphone.png);
+    background-size: cover;
+    height: 100vh;
+    /* padding-bottom: -200px; */
+
+}
+
+.other-phone .no-other-phone-content {
+    background-color:#000000;
+    text-align: center;
+    padding-bottom: 100px;
+    margin-top: -200px;
+
+}
+
+.other-phone .no-other-phone-content h2 {
+    font-size: 80px;
+    width: 45%;
+    margin: 0 auto;
+    font-weight: 100;
+    color: #EED490;
+}
+
+.other-phone .no-other-phone-content h4 {
+    width: 45%;
+    margin: 0 auto;
+    font-size: 25px;
+    font-weight: 100;
+
+
+}
+
+.other-phone .no-other-phone-content p {
+    width: 45%;
+    margin: 0 auto;
+
+    font-weight: 100;
+    color: #0A0A0A;
+    margin-top: 10px;
+}
+.image-gallery .iphone-image-gallery{
+background: #000;
+/* float: left; */
+
+}
+.image-gallery .iphone-image-gallery img{
+    width: 33%;
+    height: 370px;
+    object-fit: cover;
+
+
+}
+.footer-content{
+    background-color: #333333;
+    height: 80px;
+padding-top: 25px;
+margin: 0 auto;
+}
+.footer-content p{
+
+    text-align: center;
+    font-size: 14px;
+
+}
+.footer-content a {
+    color:#BED0ED;
+  
+  }
